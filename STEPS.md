@@ -46,7 +46,7 @@ If you got this response then you are golden! If you didn't - keep trying! Graph
 
 ### Connecting your graph service to your frontend.
 
-- [Follow this guide]() to learn how to connect a React app to a GraphQL server using ApolloClient
+- [Follow this guide](https://youtu.be/NwA2vkDQmwY) to learn how to connect a React app to a GraphQL server using ApolloClient
 - Connect your server and create a query that fetches all the book data to the client
 - Display all the books from the server in your app. It should look like [this](./assets/step4demo.PNG)
 
