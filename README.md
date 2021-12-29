@@ -27,7 +27,11 @@ As a user, I can...
 - I can now perform a server-side search (search the DB (the mock) in the server - don't send the whole block of data to the client and then filter it there) for books according to title - some query like `getBooksByTitle`
 - I can now delete a book **from the server** by double-clicking it.
 
-## If you're having a tough time - that's understandable - GraphQL can be confusing at first, you can use the `STEPS.md` file to break the task into smaller, more digestible chunks.
+### Video guides:
+- Connect GQL server to React client: https://youtu.be/NwA2vkDQmwY
+- Create a basic GraphQL server and test it: (SPOILER ALERT - if you want an extra challenge skip this video) https://www.youtube.com/watch?v=0OvDumPYiSs 
+
+### If you're having a tough time - that's understandable - GraphQL can be confusing at first, you can use the `STEPS.md` file to break the task into smaller, more digestible chunks.
 
 # Bonus
 
